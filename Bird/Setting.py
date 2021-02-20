@@ -1,0 +1,2 @@
+FITTER_OPEN = False
+HTML_TO_IMAGE = False
