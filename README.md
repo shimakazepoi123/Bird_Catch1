@@ -1,6 +1,6 @@
 ## 使用说明
 
-![Python3.6_3.7_3.8](Python3.6_3.7_3.8.svg)
+<img src="https://img.shields.io/badge/Python-3.6%2F3.7%2F3.8-Red" >
 
 
 ## 项目用途
