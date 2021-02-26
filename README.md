@@ -1,8 +1,7 @@
 ## 使用说明
 
-![Python3.6_3.7_3.8](/home/shimakaze/Bird/Python 3.6_3.7_3.8.svg)
+![Python3.6_3.7_3.8](/Python 3.6_3.7_3.8.svg)
 
-[TOC]
 
 ## 项目用途
 
